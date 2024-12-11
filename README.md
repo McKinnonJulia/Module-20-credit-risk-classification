@@ -1,4 +1,4 @@
-# Module-20-credit-risk-classification
+# Module-20-Credit-Risk-Classification
 
 
 # Credit Analysis 
