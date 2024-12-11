@@ -4,7 +4,7 @@
 # Credit Analysis 
 
 • The results:   
-•                 precision    recall  f1-score   support
+////////////////////precision    recall  f1-score   support
 
 • Class Purple:       1.00      1.00      1.00     18759
 • Class Yellow:       0.87      0.95      0.91       625
