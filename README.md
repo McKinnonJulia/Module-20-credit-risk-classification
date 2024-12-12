@@ -3,24 +3,29 @@
 
 # Credit Analysis 
 
-• The results:   
-•                 precision    recall  f1-score support 
+• The results:         
+******************Precision***Recall**F1-score***Support 
                 
-• Class Purple:     
-1.00       1.00     1.00     18759  
-• Class Yellow:     
-0.87       0.95     0.91      625   
+• Class Purple:
+    
+******************  1.00****** 1.00****1.00*******18759 
+
+• Class Yellow:
+
+******************  0.87****** 0.95******.91*********625   
                   
 • accuracy:                             
-                    0.99    19384  
+*****************************************0.99******19384  
 
 • macro avg:         
-0.94      0.97     0.95      19384 
+
+******************  0.94******0.97*******0.9*******19384 
     
 • weighted avg:      
-0.99      0.99     0.99      19384 
 
-A summary: This challange required a machine learning model that can identify credit worthiness of borrowers. Historical data is from peer-to-peer lendingwas used  All four columns boast high scores. Using this credit analysis will have outstanding results. Regular maintainance is required for spectacular results.
+0.99******0.99******0.99******19384 
+
+A summary: This challange required a machine learning model that can identify credit worthiness of borrowers. Historical data is from peer-to-peer lendingwas used  All four columns boast high scores. Using this credit analysis will have outstanding results. Regular maintainance is required for spectacular results. 
 
 # Split the Data into Training and Testing Sets
 Open the starter code notebook and use it to complete the following steps:
