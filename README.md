@@ -4,10 +4,10 @@
 # Credit Analysis 
 
 • The results:   
-•                 precision    recall  f1-score   support
-
+•                 | precision |   recall  |f1-score| support|
+                  |    :---:  |    :---:  | :---:  | :---:  |              
 • Class Purple:       1.00      1.00      1.00     18759
-• Class Yellow:        0.87      0.95      0.91       625
+• Class Yellow:       0.87      0.95      0.91       625
 
 •   accuracy                            0.99       19384
 •   macro avg       0.94      0.97      0.95       19384
