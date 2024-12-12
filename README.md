@@ -3,7 +3,7 @@
 
 # Credit Analysis 
 
-• The results:   
+* The results:   
 •                 precision    recall  f1-score support 
                 
 • Class Purple:     
